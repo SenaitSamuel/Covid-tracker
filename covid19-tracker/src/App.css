@@ -3,14 +3,14 @@
 }
 
 body {
-  background-color: #f5f6fa;
+  background-color: #b9c1df;
 }
 
 .app {
   display: flex;
   justify-content: space-evenly;
-  background-color: #f5f6fa;
-  padding: 20px;
+  background-color: #b9c1df;
+  padding: 30px;
 }
 
 .app__dropdown {
@@ -20,12 +20,13 @@ body {
 .app__header {
   display: flex;
   align-items: center;
+  padding-top: 10px;
   margin-bottom: 20px;
   justify-content: space-between;
 }
 
 .app__header > h1 {
-  color: #fc3c3c;
+  color: black;
   font-size: 2rem;
 }
 
